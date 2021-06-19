@@ -1,3 +1,2 @@
 FROM httpd
-COPY . /usr/local/apache2
-
+COPY . /usr/local
